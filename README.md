@@ -1,9 +1,23 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+22658
+Fork on GitHub
+7478
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Hamzah Amir</h1>
 <h3 align="center">I'm Creative and growth-driven Full-Stack JavaScript Developer with a passion for crafting seamless digital experiences using the MERN stack and React Native. I blend clean code with intuitive UI/UX design to build products that are both functional and delightful. Curious by nature and always evolving, I’m diving deeper into Cloud & DevOps (AWS, Docker, CI/CD) to deliver scalable and modern solutions. I thrive in dynamic environments, love solving problems, and believe in the power of continuous learning. Let’s connect and build something amazing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaamir97&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaamir97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaamir97" alt="hamzaamir97" /></a> </p>
 
 - 🔭 I’m currently working on **Learning AI skills to enhance my expertise in web development and DevOps practices**
 
@@ -22,7 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hamza a. a al-ameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza a. a al-ameer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamzahaamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzahaamir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/hamzahaamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hamzahaamir" height="30" width="40" /></a>
 <a href="https://fb.com/hamza a. a al-ameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza a. a al-ameer" height="30" width="40" /></a>
 <a href="https://instagram.com/hamzasoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzasoftware" height="30" width="40" /></a>
 </p>
@@ -32,4 +46,27 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaamir97&show_icons=true&locale=en&layout=compact" alt="hamzaamir97" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaamir97&" alt="hamzaamir97" /></p>
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
