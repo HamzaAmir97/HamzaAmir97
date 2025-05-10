@@ -140,7 +140,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/circleci-1-1174818.png" alt="circleci" width="40" height="40"/>
   <img src="https://assets.vercel.com/image/upload/v1538361091/repositories/vercel/logo.png" alt="vercel" width="40" height="40"/>
   <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="netlify" width="40" height="40"/>
-  <img src="https://global-uploads.webflow.com/62d23118f5a2374c9abfe0f9/631f54b27a9c21121e330c95_Render%20Icon%20-%20Color.png" alt="render" width="40" height="40"/>
+  
 </p>
 
 
