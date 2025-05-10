@@ -20,7 +20,7 @@
 - 🤝 I’m looking for help with **Projects that apply AI in real-world DevOps or cybersecurity challenges**
 - 📝 I regularly write articles on [MERN Stack Technology](#)
 - 📫 How to reach me: **alhamza2012@gmail.com**
-- ⚡ Fun fact: **I'm obsessed with learning and development**
+- ⚡ Fun fact: **Iove soccer , I'm RealMadrid Fun <a href="https://emojis.com/emoji/real-madrid-logo-CvV1Sa6VuP" target="_blank">Emoji by emojis.com</a> **
 
 ---
 
