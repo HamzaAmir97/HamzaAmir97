@@ -117,55 +117,26 @@
 
 ---
 
-### 🧪 Testing Tools:
 <p align="left">
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" alt="swagger" width="40" height="40"/>
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
-  </a>
-  <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="chai" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="cypress" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWC_logo.png" alt="swagger" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/8b73fa9e3aa0b3b0e2d5be6545fc0bda68304b51f55f254bc8bdca437eff87e4/68747470733a2f2f636861696a732e636f6d2f696d672f636861692e706e67" alt="chai" width="40" height="40"/>
+  <img src="https://www.cypress.io/icons/icon-48x48.png" alt="cypress" width="40" height="40"/>
 </p>
+
 
 ---
-
-### ☁️ Cloud, DevOps & Deployment
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/>
-  </a>
-  <a href="https://circleci.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
-  </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
-  </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="render" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github actions" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/circleci-1-1174818.png" alt="circleci" width="40" height="40"/>
+  <img src="https://assets.vercel.com/image/upload/v1538361091/repositories/vercel/logo.png" alt="vercel" width="40" height="40"/>
+  <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="netlify" width="40" height="40"/>
+  <img src="https://global-uploads.webflow.com/62d23118f5a2374c9abfe0f9/631f54b27a9c21121e330c95_Render%20Icon%20-%20Color.png" alt="render" width="40" height="40"/>
 </p>
+
 
