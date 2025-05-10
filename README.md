@@ -121,9 +121,9 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="40" height="40"/>
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
-  <img src="https://www.cypress.io/icons/icon-48x48.png" alt="cypress" width="40" height="40"/>
+  <img src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" alt="cypress" width="80" height="80"/>
 </p>
 
 
