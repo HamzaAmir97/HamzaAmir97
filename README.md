@@ -116,18 +116,20 @@
 [![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](#)
 
 ---
+### 🧪 Testing Tools:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWC_logo.png" alt="swagger" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/8b73fa9e3aa0b3b0e2d5be6545fc0bda68304b51f55f254bc8bdca437eff87e4/68747470733a2f2f636861696a732e636f6d2f696d672f636861692e706e67" alt="chai" width="40" height="40"/>
   <img src="https://www.cypress.io/icons/icon-48x48.png" alt="cypress" width="40" height="40"/>
 </p>
 
 
 ---
+
+###  ☁️ Cloud, DevOps & Deployment
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
