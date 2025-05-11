@@ -20,7 +20,7 @@
 - 🤝 I’m looking for help with **Projects that apply AI in real-world DevOps or cybersecurity challenges**
 - 📝 I regularly write articles on [MERN Stack Technology](#)
 - 📫 How to reach me: **alhamza2012@gmail.com**
-- ⚡ Fun fact: **Iove soccer ⚽️ , I'm RealMadrid Fun 🤘😁🤘 **
+- ⚡ Fun fact: **Iove soccer ⚽️ , I'm RealMadrid Fan 🤘😁🤘 **
 
 ---
 
