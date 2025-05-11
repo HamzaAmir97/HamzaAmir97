@@ -42,6 +42,7 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/HamzaAmir97/HamzaAmir97/output/snake.svg" alt="Snake animation" />
 
 ### 💻 Programming Languages
 
