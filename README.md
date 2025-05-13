@@ -86,7 +86,7 @@
 
 ---
 
-### ⚙️ DevOps & Tools
+### ⚙️ DevOps & CI/CD Tools
 
 [![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](#)
 [![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
@@ -130,7 +130,7 @@
 
 ---
 
-###  ☁️ Cloud, DevOps & Deployment
+###  ☁️ Cloud, & Deployment
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
