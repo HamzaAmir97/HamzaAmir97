@@ -60,7 +60,6 @@
 [![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](#)
 [![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](#)
 [![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)](#)
-[![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](#)
 [![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
 [![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](#)
