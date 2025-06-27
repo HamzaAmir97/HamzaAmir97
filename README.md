@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Hamzah+Amir!;Full-Stack+JavaScript+Developer+(MERN+%2B+Next.js);Mobile+App+Developer+with+React+Native;Cloud+%26+DevOps+Explorer+(AWS,+Docker,+CI%2FCD);Clean+Code+%2B+Modern+UI%2FUX+Enthusiast;Let’s+build+something+awesome+together!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:1A1AFF&height=200&section=header&text=Hamzah%20Amir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20+%20Next.js%20%7C%20Cloud%20%26%20DevOps&descAlignY=60&descAlign=50" alt="Hamzah Amir Banner"/>
 </div>
 
 
