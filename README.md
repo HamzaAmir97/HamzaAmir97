@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:1A1AFF&height=200&section=header&text=Hamzah%20Amir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20JavaScript%20Developer%20%7C%20Cloud%20%26%20DevOps%20Explorer&descAlignY=60&descAlign=50" alt="Header Image"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Hamzah+Amir!;Full-Stack+JavaScript+Developer+(MERN+%2B+Next.js);Mobile+App+Developer+with+React+Native;Cloud+%26+DevOps+Explorer+(AWS,+Docker,+CI%2FCD);Clean+Code+%2B+Modern+UI%2FUX+Enthusiast;Let’s+build+something+awesome+together!" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Hamzah+Amir!;💻+Full+Stack+JavaScript+Developer+(MERN);📱+React+Native+Mobile+Developer;☁️+Exploring+AWS,+Docker+%26+CI/CD;🎯+Clean+Code+%2B+Intuitive+UX/UI;🚀+Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Hamzah+Amir!;💻+Full-Stack+JavaScript+Developer+(MERN+%2B+Next.js);📱+React+Native+Mobile+Developer;☁️+Exploring+AWS,+Docker+%26+CI/CD;🎯+Clean+Code+%2B+Intuitive+UX/UI;🚀+Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
 </div>
-
 
 
 
