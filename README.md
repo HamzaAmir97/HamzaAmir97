@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hamzah Amir</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yipmong%20Said&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=55&descAlign=50"/>
+</div>
 
-<h3 align="center">
-  Full-Stack JavaScript Developer | MERN Stack | React Native <br/>
-  Passionate about clean code, intuitive UI/UX, and scalable cloud solutions. <br/>
-  Exploring AI in DevOps | AWS, Docker, CI/CD Enthusiast
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Hamzah Amir!;💻+Full-Stack JavaScript Developer;🎓+| MERN Stack | React Native;🚀+Passionate about clean code;🔥+Problem+Solveing+%26+intuitive UI/UX, and Ai and cloud solutions;⚡+Building+the+Future+with+Code" alt="Typing SVG" />
+</div>
+
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamzaamir97&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaamir97" />
