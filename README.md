@@ -3,6 +3,7 @@
 </div>
 
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Hamzah+Amir!;💻+Full-Stack+JavaScript+Developer+(MERN+%2B+Next.js);📱+React+Native+Mobile+Developer;☁️+Exploring+AWS,+Docker+%26+CI/CD;🎯+Clean+Code+%2B+Intuitive+UX/UI;🚀+Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
 </div>
