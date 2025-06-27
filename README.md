@@ -1,9 +1,8 @@
-[<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:1A1AFF&height=200&section=header&text=Hamzah%20Amir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20+%20Next.js%20%7C%20Cloud%20%26%20DevOps&descAlignY=60&descAlign=50" alt="Hamzah Amir Banner"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hamzah%20%20Amir&desc=Full%20Stack%20JavaScript%20Devoloper&descSize=-4&descAlign=33&descAlignY=69" alt="Hamzah Amir Header"/>
 </div>
 
 
-](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hamzah%20%20Amir&desc=Full%20Stack%20JavaScript%20Devoloper&descSize=-4&descAlign=33&descAlignY=69)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Hamzah+Amir!;💻+Full-Stack+JavaScript+Developer+(MERN+%2B+Next.js);📱+React+Native+Mobile+Developer;☁️+Exploring+AWS,+Docker+%26+CI/CD;🎯+Clean+Code+%2B+Intuitive+UX/UI;🚀+Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
 </div>
