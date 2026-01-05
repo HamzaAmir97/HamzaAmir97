@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on **Open-source DevSecOps tools that combine automation, security, and intelligent systems**
 - 🤝 I’m looking for help with **Projects that apply AI in real-world DevOps or cybersecurity challenges**
 - 📝 I regularly write articles on [MERN Stack Technology](#)
-- 📫 How to reach me: **alhamza2012@gmail.com**
+- 📫 How to reach me: **contact@hamzahamir.site**
 - ⚡ Fun fact: **Iove soccer ⚽️ , I'm RealMadrid Fan 🤘😁🤘 **
 
 ---
