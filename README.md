@@ -76,6 +76,7 @@
 [![](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](#)
 [![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](#)
 [![](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](#)
+[![](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](#)
 
 ---
 
@@ -114,11 +115,15 @@
 
 ---
 
+
 ### 📱 Mobile Development
 
+[![](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)](#)
+[![](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)](#)
+[![](https://img.shields.io/badge/NativeWind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)](#)
 [![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](#)
-
 ---
+
 ### 🧪 Testing Tools:
 
 <p align="left">
