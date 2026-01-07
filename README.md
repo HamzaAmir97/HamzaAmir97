@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/hamzahaamir" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/hamzasoftware" target="_blank">
+  <a href="https://www.facebook.com/alhamza2013" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/hamzasoftware" target="_blank">
